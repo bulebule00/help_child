@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="title_blue">#AEEEEE</color>
+    <color name="bottom_color">#EAEAEA</color>
+    <color name="tab_selected_bg">#C4E1E1</color>
+    <color name="timeview">#242424</color>
+    <color name="black">#1A1A1A</color>
+    <color name="black_1">#CCCCCC</color>
+    <color name="bg">#D1EEEE</color>
+    <drawable name="pressed_color">#D4D4D4</drawable>
+    <drawable name="show_color">#FFFFF0</drawable>
+</resources>
